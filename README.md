@@ -89,7 +89,7 @@ A **seven-phase experimental pipeline** was adopted, featuring:
 
 ---
 
-## 📂 Repository Structure (Suggested)
+## 📂 Repository Structure
 
 ```
 ├── datasets/          # TPC-DS and TPC-H data generation scripts
