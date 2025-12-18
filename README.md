@@ -4,7 +4,7 @@
 
 ## 📌 Project Overview
 
-Cloud data warehouses are now central to modern analytics, yet organisations—particularly SMEs—often struggle to choose the most suitable platform due to conflicting benchmark results and unclear performance guidance.
+Cloud data warehouses are now central to modern analytics, yet organisations particularly SMEs—often struggle to choose the most suitable platform due to conflicting benchmark results and unclear performance guidance.
 
 This research provides a **neutral, controlled, and empirical comparison** of three leading cloud data warehousing platforms:
 
