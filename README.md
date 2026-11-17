@@ -77,7 +77,7 @@ A **seven-phase experimental pipeline** was adopted, featuring:
 * 10GB scale factor limits enterprise-scale generalization
 * Single-region deployment (US-East)
 * Temporal validity (October 2025 snapshot)
-
+https://github.com/gbengacruz/Optimizing-Query-Performance-in-Cloud-Data-Warehousing/blob/9efb598f1dbd020535c48a4c8c2530fd1ebd46af/files/Optimizing%20Query%20Performance%20in%20Cloud%20Data%20Warehousing.pdf
 ---
 
 ## 🔮 Future Work
