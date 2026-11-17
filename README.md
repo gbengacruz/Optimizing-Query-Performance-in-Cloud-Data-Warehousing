@@ -79,9 +79,13 @@ A **seven-phase experimental pipeline** was adopted, featuring:
 * Temporal validity (October 2025 snapshot)
 
 ---
-## 🔮 Presentation
+## MSc Dissertation
 
-files/Optimizing Query Performance in Cloud Data Warehousing.pdf
+### Optimizing Query Performance in Cloud Data Warehousing
+
+A comparative analysis of Microsoft Azure Synapse, Amazon Redshift, and Oracle Autonomous Data Warehouse.
+
+📄 **[View Full Dissertation (PDF)](files/Optimizing%20Query%20Performance%20in%20Cloud%20Data%20Warehousing.pdf)**
 
 ---
 ## 🔮 Future Work
